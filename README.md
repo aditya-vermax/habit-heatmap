@@ -58,12 +58,6 @@ Design notes:
 - The habit detail view lives at `/habit?id=…` rather than `/habits/[id]`. Habit ids only exist in the user's browser, so a query string keeps the route statically prerendered, which lets the service worker cache it for offline use.
 - Rename the product in `lib/config.ts`.
 
-## Deploy to Vercel
-
-1. Push the repo to GitHub.
-2. Import it at vercel.com/new. Framework preset: Next.js. No environment variables needed.
-3. Deploy, then add the live URL to this README and the repo description.
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md). Out of scope by design: accounts, sync or any backend, analytics, keyboard shortcuts.
