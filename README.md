@@ -2,6 +2,8 @@
 
 A local-first habit tracker with GitHub-style heatmaps. Tap to log a day, watch your streaks grow, and see a year of consistency at a glance.
 
+**[Live demo →](https://habit-heatmap-xyz.vercel.app/)**
+
 **Your data never leaves your browser.** No accounts, no backend, no analytics, no third-party scripts.
 
 <!-- TODO: add a screenshot (docs/screenshot.png) and a short GIF of logging a day, then reference them here. -->
