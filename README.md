@@ -6,7 +6,8 @@ A local-first habit tracker with GitHub-style heatmaps. Tap to log a day, watch 
 
 **Your data never leaves your browser.** No accounts, no backend, no analytics, no third-party scripts.
 
-<!-- TODO: add a screenshot (docs/screenshot.png) and a short GIF of logging a day, then reference them here. -->
+![Habit Heatmap screenshot](docs/screenshot.png)
+![Heatmap screenshot](docs/heatmap.png)
 
 ## Features
 
